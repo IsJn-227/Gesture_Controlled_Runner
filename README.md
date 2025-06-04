@@ -1,6 +1,6 @@
 # 🏃‍♀️ Unity Runner Game with Gesture Controls
 
-This project is a modified version of a Unity endless runner game (originally by Ankush1122), now controlled using hand gestures via webcam.
+This project is a modified version of a Unity endless runner game (originally by Ankush1122 (https://github.com/Ankush1122/Run)), now controlled using hand gestures via webcam.
 
 ## ✨ What's New
 - 🎮 Control your character using hand gestures!
